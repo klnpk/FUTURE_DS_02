@@ -78,27 +78,46 @@ This project presents an interactive **Customer Retention & Churn Analysis Dashb
 * Senior Citizen
 * Partner
 
+## 🔍 Key Insights
+
+### 📄 Churn by Contract
+* Customers with **Month-to-Month contracts** exhibit the highest churn rate, while customers with long-term contracts are more likely to remain retained.
+
+### 🌐 Churn by Internet Service
+* Customers using **Fiber Optic** internet service show a higher churn rate compared to DSL and customers without internet service.
+
+### 💳 Churn by Payment Method
+* Customers who use **Electronic Check** as their payment method contribute significantly to customer churn.
+
+### 👥 Customer Demographics
+* Customer distribution is nearly balanced across gender, while partner status has a noticeable impact on customer retention.
+
+### 📈 Customer Lifetime Trends
+* Customers with **longer tenure** demonstrate higher retention, indicating stronger customer loyalty over time.
+
+### 📊 Overall Retention Drivers
+* Contract type, payment method, internet service, and customer tenure are the primary factors influencing customer churn and retention.
+
 ---
 
-## 💡 Key Insights
+## 💡 Business Recommendations
 
-📌 Customers with month-to-month contracts have the highest churn rate.
-📌 Fiber optic internet users experience higher churn compared to other internet service types.
-📌 Customers using electronic check contribute significantly to customer churn.
-📌 Customers with longer tenure are more likely to remain loyal.
-📌 Partner status and contract type have a noticeable impact on customer retention.
+### 📌 Promote Long-Term Contracts
+* Encourage customers to switch from month-to-month plans to one-year or two-year contracts through attractive offers and discounts.
 
----
+### 📌 Improve Service Quality
+* Enhance the customer experience for Fiber Optic users by improving service quality and customer support.
 
-## 📈 Business Recommendations
+### 📌 Target High-Risk Customers
+* Develop personalized retention campaigns for customers who are more likely to churn.
 
-✅ Encourage customers to switch from month-to-month to long-term contracts.
-✅ Improve customer experience for Fiber optic users.
-✅ Develop targeted retention campaigns for high-risk customer groups.
-✅ Provide loyalty rewards for long-term customers.
-✅ Analyze payment methods associated with higher churn and improve customer engagement.
+### 📌 Reward Loyal Customers
+* Introduce loyalty programs and exclusive benefits for long-term customers to improve retention.
 
----
+### 📌 Monitor Customer Behavior
+* Continuously track churn patterns and customer lifetime trends using Power BI dashboards to support proactive business decisions.
+
+
 
 ## 📌 Project Overview
 
