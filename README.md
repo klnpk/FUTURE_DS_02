@@ -80,22 +80,23 @@ This project presents an interactive **Customer Retention & Churn Analysis Dashb
 
 ---
 
-## 🔍 Key Insights
+## 💡 Key Insights
 
-📌 Customers with month-to-month contracts show the highest churn, indicating lower customer commitment.
-📌 Customers with longer tenure are more likely to remain loyal, highlighting the importance of long-term engagement.
-📌 Fiber optic internet customers experience higher churn, suggesting potential service or pricing concerns.
-📌 Customers using electronic check have a comparatively higher churn rate.
-📌 Contract type, tenure, and payment method are key drivers influencing customer retention.
+📌 Customers with month-to-month contracts have the highest churn rate.
+📌 Fiber optic internet users experience higher churn compared to other internet service types.
+📌 Customers using electronic check contribute significantly to customer churn.
+📌 Customers with longer tenure are more likely to remain loyal.
+📌 Partner status and contract type have a noticeable impact on customer retention.
+
 ---
 
-## 💡 Business Recommendations
+## 📈 Business Recommendations
 
-✅ Encourage customers to migrate from month-to-month to long-term contracts through attractive offers.
-✅ Implement targeted retention campaigns for customers identified as high churn risks.
-✅ Improve the experience of Fiber optic customers through better support and service quality.
-✅ Introduce loyalty rewards for long-tenure customers to increase retention.
-✅ Continuously monitor churn trends using Power BI dashboards to proactively reduce customer loss..
+✅ Encourage customers to switch from month-to-month to long-term contracts.
+✅ Improve customer experience for Fiber optic users.
+✅ Develop targeted retention campaigns for high-risk customer groups.
+✅ Provide loyalty rewards for long-term customers.
+✅ Analyze payment methods associated with higher churn and improve customer engagement.
 
 ---
 
