@@ -2,7 +2,7 @@
 
 ## 📌 Project Overview
 
-This project presents an interactive **Customer Retention & Churn Analysis Dashboard** built using **Microsoft Power BI**. The dashboard analyzes customer behavior and churn patterns to identify the key factors influencing customer retention. It provides valuable business insights through interactive visualizations, enabling organizations to improve customer satisfaction and reduce churn.
+This project presents an interactive **Customer Retention & Churn Analysis Dashboard** built using **Microsoft Power BI**.This is the task-2. The dashboard analyzes customer behavior and churn patterns to identify the key factors influencing customer retention. It provides valuable business insights through interactive visualizations, enabling organizations to improve customer satisfaction and reduce churn.
 
 ---
 
